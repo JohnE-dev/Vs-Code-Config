@@ -1,0 +1,29 @@
+{
+    
+    "workbench.colorTheme": "Cobalt2",
+    "editor.fontSize": 19,
+    "terminal.integrated.shell.windows": "c:\\Windows\\Sysnative\\cmd.exe",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "git.ignoreMissingGitWarning": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 0,
+    "mssql.connections": [
+        {
+            "connectionString": "Server=(localdb)\\mssqllocaldb;Database=MovieKnightsDB;Trusted_Connection=true",
+            "profileName": "JohnE",
+            "password": ""
+        }
+    ],
+    "java.home": "C:\\Users\\JohnE\\AppData\\Local\\Programs\\AdoptOpenJDK",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "python.jediEnabled": false
+}
